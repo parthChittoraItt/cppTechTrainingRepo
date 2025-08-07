@@ -1,0 +1,11 @@
+# VS Code settings folder
+.vscode/
+# Compiled C++ binaries
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
